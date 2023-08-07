@@ -1,0 +1,27 @@
+
+<nav>
+ 
+<button onclick="alter mostrar mensagem()">Clique para alterar a cor de fundo varias vezes.</button>
+
+<button class="btn btn-1"></button>
+<button class="btn btn-2"></button>
+<button class="btn btn-3"></button>
+<button class="btn btn-4"></button>
+<button class="btn btn-5"></button>
+<button class="btn btn-6"></button>
+<button class="btn btn-7"></button>
+<button class="btn btn-8"></button>
+
+<button id="btnred-1">red</button>
+<button id="btngreen-2">green</button>
+<button id="btnblue-3">blue</button>
+<button id="btnyelow-4">yelow</button>
+<button id="btnbrown-5">brown</button>
+<button id="btnorange-6">orange</button>
+<button id="btnpurple-7">purple</button>
+<button id="btnblack-8">black</button>
+
+</nav>
+
+
+    
